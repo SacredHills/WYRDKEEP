@@ -33,13 +33,16 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
 - **Proofreading and continuity checks.** Built-in checks, optional LanguageTool, and checks for things like a character appearing after they died.
 - **Export.** Word (`.docx`), EPUB, Markdown and plain text.
 - **Optional AI help.** Brainstorming, continuing a scene, rewriting and more, using a model on your own computer (such as Ollama or LM Studio) or an online service. Nothing changes your manuscript until you accept it.
-
+![Storyboard](screenshots/storyboard.png)
 ## Your writing stays with you
 
 - Your projects are saved on your own computer. The app makes no network requests by itself.
 - AI is **off for online services by default**. Nothing is sent anywhere unless you add an online AI provider **and** switch on *Settings → Privacy → Allow project content to be sent to online AI services*.
 - API keys for online AI are kept in the system's credential store (Windows Credential Manager or macOS Keychain), never in your project files.
 - The app makes automatic backups while you work. You can also make one from **Settings → Library backups**.
+  
+![Writing view](screenshots/writing.png)
+![Manuscript pages](screenshots/manuscript.png)
 
 ## Getting started
 
