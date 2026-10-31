@@ -42,7 +42,7 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
 - The app makes automatic backups while you work. You can also make one from **Settings → Library backups**.
   
 ![Writing view](screenshots/writing.jpg)
-![Manuscript pages](screenshots/manuscript.jpg)
+![Manuscript pages](screenshots/Manuscript.jpg)
 
 ## Getting started
 
