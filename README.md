@@ -1,4 +1,4 @@
-# WYRDKEEP
+# ![wyrdkeep](screenshots/wyrdkeep.png)
 
 **A desktop novel-writing studio.** Plan your story on a visual storyboard, write it in a full editor, and see it laid out like the pages of a real book. Everything is stored on your own computer.
 
