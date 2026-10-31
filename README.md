@@ -45,6 +45,7 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
   
 ![Writing view](screenshots/writing.jpg)
 ![Manuscript pages](screenshots/Manuscript.jpg)
+![Manuscript pages](screenshots/Chapterstyle.jpg)
 
 ## Getting started
 
