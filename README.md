@@ -31,7 +31,7 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
 - Debian / Ubuntu / Mint (`.deb`): `sudo apt install ./WYRDKEEP*.deb`
 - Fedora / openSUSE (`.rpm`): `sudo dnf install ./WYRDKEEP*.rpm`
 
-The Linux builds are made on Ubuntu 22.04, so Ubuntu 22.04 or newer (or an equivalent distribution) is the safest choice. They have not been tested on real Linux desktops yet.
+The Linux builds are made on Ubuntu 22.04, so Ubuntu 22.04 or newer (or an equivalent distribution) is the safest choice. The Linux versions have limited testing. If something does not work, please tell me.
 
 If the AppImage won't start:
 - On newer Ubuntu, install FUSE first: `sudo apt install libfuse2`. Or run it with `./WYRDKEEP*.AppImage --appimage-extract-and-run`.
