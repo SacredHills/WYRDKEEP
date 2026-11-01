@@ -23,6 +23,22 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
 2. The first time, macOS may say it is from an unidentified developer, because the app is not signed or notarised. **Right-click (or Control-click) the app, choose Open, then Open again.**
 3. The Mac version is new and has had less testing than the Windows one. If something does not work, please tell me.
 
+### Linux
+
+1. Download one of the three files from the latest release:
+
+- AppImage (`.AppImage`): works on most 64-bit Intel/AMD Linux desktops without installing anything. Make it executable (`chmod +x WYRDKEEP*.AppImage`) and run it, or right-click it, open Properties and tick "Allow executing as a program".
+- Debian / Ubuntu / Mint (`.deb`): `sudo apt install ./WYRDKEEP*.deb`
+- Fedora / openSUSE (`.rpm`): `sudo dnf install ./WYRDKEEP*.rpm`
+
+The Linux builds are made on Ubuntu 22.04, so Ubuntu 22.04 or newer (or an equivalent distribution) is the safest choice. They have not been tested on real Linux desktops yet.
+
+If the AppImage won't start:
+- On newer Ubuntu, install FUSE first: `sudo apt install libfuse2`. Or run it with `./WYRDKEEP*.AppImage --appimage-extract-and-run`.
+- If the window opens blank, try: `WEBKIT_DISABLE_DMABUF_RENDERER=1 ./WYRDKEEP*.AppImage`
+
+Your projects are stored on your computer, in your user data folder. Please report problems on the Issues page.
+
 ## What it does
 
 - **Storyboard.** A canvas of cards for scenes, chapters, characters, locations, plot events, notes, timeline events and plot threads. Connect them with arrows such as "Happens before" or "Foreshadows", and filter or rearrange them.
