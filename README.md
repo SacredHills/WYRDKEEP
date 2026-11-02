@@ -98,7 +98,7 @@ Paper sizes: Letter, Legal, Tabloid, A5, A4 and A3. Short black marks in the mar
 - **No double-sided printer?** Tick the box for that. The app prints the fronts first, then you put the sheets back in the tray and it prints the backs.
 - **Backs upside down?** Tick *Turn the backs upside down*.
 - **Mac and Linux:** use **Save as PDF instead...** and print the saved file from a PDF viewer. Printing from the app window is only tested on Windows.
-- 
+  
 ![Binding](screenshots/binding.jpg)
 
 ## Known limits
