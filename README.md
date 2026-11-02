@@ -10,6 +10,9 @@ Go to the **[Releases](../../releases/latest)** page and download the file for y
 |---|---|
 | Windows 10 / 11 | the **setup `.exe`** |
 | Mac | the **`.dmg`** |
+| Linux (Ubuntu, Debian, Mint) | the **`.deb`** |
+| Linux (Fedora, openSUSE) | the **`.rpm`** |
+| Linux (any other, or if unsure) | the **`.AppImage`** |
 
 ## Install
 
