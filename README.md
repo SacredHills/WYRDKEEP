@@ -71,10 +71,34 @@ Your projects are stored on your computer, in your user data folder. Please repo
 4. Export from **File → Export manuscript** when you want a Word, EPUB or text copy.
 5. Optional: add an AI provider in **Settings → AI providers**.
 
-##Print for binding
+## Print for binding
 
-Turn your finished book into pages you can print at home and bind. First save your book as a PDF: in the Manuscript tab click Print / PDF and choose Save as PDF. Then click "Print for binding..." (next to Print / PDF), choose that PDF, and pick a layout: a fold-and-staple booklet, true size pages to trim, or four pages per sheet to cut apart. Choose your paper size and the window shows a picture of the first sheet. Short black marks in the margins show where to fold or cut, and nothing is drawn across your pages. Click Print to print from the app, or "Save as PDF instead..." to print the file from another program. If your printer cannot print double-sided, tick the box for that and the app prints the fronts first, then the backs. For a booklet, set double-sided printing to flip on the short edge, and print sheet 1 alone first to check the back lines up.
-On Mac and Linux, use Save as PDF instead and print the saved file.
+Turn your finished book into pages you can print at home and bind.
+
+### How to use it
+
+1. Save your book as a PDF: in the **Manuscript** tab, click **Print / PDF** and choose **Save as PDF**.
+2. Click **Print for binding...** (next to Print / PDF) and choose that PDF.
+3. Pick a layout and a paper size. A picture of the first sheet shows what you will get.
+4. Click **Print**, or **Save as PDF instead...** to print the file from another program.
+
+### Layouts
+
+| Layout | What you get |
+|---|---|
+| **Booklet** | Two pages per sheet, in the right order for folding and stapling. Pages keep their real size. |
+| **True size** | Every page at its real book size, as many per sheet as fit, then trim. |
+| **Four per sheet** | Four loose pages per side to cut apart. |
+
+Paper sizes: Letter, Legal, Tabloid, A5, A4 and A3. Short black marks in the margins show where to fold or cut, and nothing is drawn across your pages.
+
+### Tips
+
+- **Double-sided:** for a booklet, set double-sided printing to *flip on the short edge*. Print sheet 1 alone first to check that the back lines up.
+- **No double-sided printer?** Tick the box for that. The app prints the fronts first, then you put the sheets back in the tray and it prints the backs.
+- **Backs upside down?** Tick *Turn the backs upside down*.
+- **Mac and Linux:** use **Save as PDF instead...** and print the saved file from a PDF viewer. Printing from the app window is only tested on Windows.
+- 
 ![Binding](screenshots/binding.jpg)
 
 ## Known limits
