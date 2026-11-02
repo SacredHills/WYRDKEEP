@@ -71,6 +71,12 @@ Your projects are stored on your computer, in your user data folder. Please repo
 4. Export from **File → Export manuscript** when you want a Word, EPUB or text copy.
 5. Optional: add an AI provider in **Settings → AI providers**.
 
+##Print for binding
+
+Turn your finished book into pages you can print at home and bind. First save your book as a PDF: in the Manuscript tab click Print / PDF and choose Save as PDF. Then click "Print for binding..." (next to Print / PDF), choose that PDF, and pick a layout: a fold-and-staple booklet, true size pages to trim, or four pages per sheet to cut apart. Choose your paper size and the window shows a picture of the first sheet. Short black marks in the margins show where to fold or cut, and nothing is drawn across your pages. Click Print to print from the app, or "Save as PDF instead..." to print the file from another program. If your printer cannot print double-sided, tick the box for that and the app prints the fronts first, then the backs. For a booklet, set double-sided printing to flip on the short edge, and print sheet 1 alone first to check the back lines up.
+On Mac and Linux, use Save as PDF instead and print the saved file.
+![Binding](screenshots/binding.jpg)
+
 ## Known limits
 
 - The page view is a close preview on screen, not an exact print layout. Line and page breaks can differ slightly in other programs.
